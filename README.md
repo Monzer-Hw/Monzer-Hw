@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate Data scientist with expertise in Machine Learning, Deep Learning, and Data Visualization.</p>
+<p align="left">A passionate Data scientist with expertise in Machine Learning, Deep Learning.</p>
 
 ###
 
