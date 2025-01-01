@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm Monzer Hweit. Passionate Data Scientist with a
   <a href="https://linkedin.com/in/monzer-hweit">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://linkedin.com/in/monzer-hweit">
+  <a href="mailto:monzerhweit@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-D00000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
