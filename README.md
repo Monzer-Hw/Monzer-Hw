@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm Monzer Hweit. Passionate Data Scientist with a
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![UV](https://img.shields.io/badge/-uv-261230?style=for-the-badge&logo=uv&logoColor=AA4AB6)
 ![Numpy](https://img.shields.io/badge/-Numpy-45A4C6?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003F7D?style=for-the-badge&logo=plotly&logoColor=white)
