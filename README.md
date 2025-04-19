@@ -1,8 +1,8 @@
-<!-- Banner -->
+<!-- Banner 
 <div align="center">
   <img src="assets/banner.png" alt="Monzer Hweit Banner" style="width:100%;"/>
 </div>
-
+-->
 
 #  Hi there 👋 I'm Monzer Hweit
 
